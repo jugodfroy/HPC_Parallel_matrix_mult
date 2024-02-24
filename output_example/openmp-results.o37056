@@ -1,0 +1,140 @@
+Processing ./matrices/thermomech_TK.mtx
+Threads: 1, k: 1, Time: 0.001739 s, GFLOPS: 0.467975
+Threads: 1, k: 2, Time: 0.002258 s, GFLOPS: 0.720884
+Threads: 1, k: 3, Time: 0.003092 s, GFLOPS: 0.789378
+Threads: 1, k: 6, Time: 0.005250 s, GFLOPS: 0.930027
+Processing ./matrices/af23560.mtx
+Threads: 1, k: 1, Time: 0.000487 s, GFLOPS: 1.986895
+Threads: 1, k: 2, Time: 0.001011 s, GFLOPS: 1.915678
+Threads: 1, k: 3, Time: 0.001289 s, GFLOPS: 2.253478
+Threads: 1, k: 6, Time: 0.002898 s, GFLOPS: 2.005021
+Processing ./matrices/cage4.mtx
+Threads: 1, k: 1, Time: 0.000004 s, GFLOPS: 0.024221
+Threads: 1, k: 2, Time: 0.000002 s, GFLOPS: 0.096076
+Threads: 1, k: 3, Time: 0.000010 s, GFLOPS: 0.030720
+Threads: 1, k: 6, Time: 0.000002 s, GFLOPS: 0.243393
+Processing ./matrices/dc1.mtx
+Threads: 1, k: 1, Time: 0.001274 s, GFLOPS: 1.203136
+Threads: 1, k: 2, Time: 0.002164 s, GFLOPS: 1.416711
+Threads: 1, k: 3, Time: 0.002982 s, GFLOPS: 1.542033
+Threads: 1, k: 6, Time: 0.006563 s, GFLOPS: 1.401333
+Processing ./matrices/mcfe.mtx
+Threads: 1, k: 1, Time: 0.000029 s, GFLOPS: 1.660955
+Threads: 1, k: 2, Time: 0.000051 s, GFLOPS: 1.899319
+Threads: 1, k: 3, Time: 0.000074 s, GFLOPS: 1.973563
+Threads: 1, k: 6, Time: 0.000148 s, GFLOPS: 1.982812
+Processing ./matrices/mhda416.mtx
+Threads: 1, k: 1, Time: 0.000010 s, GFLOPS: 1.631840
+Threads: 1, k: 2, Time: 0.000018 s, GFLOPS: 1.925466
+Threads: 1, k: 3, Time: 0.000026 s, GFLOPS: 2.010324
+Threads: 1, k: 6, Time: 0.000052 s, GFLOPS: 1.975725
+Processing ./matrices/cant.mtx
+Threads: 1, k: 1, Time: 0.002423 s, GFLOPS: 1.679754
+Threads: 1, k: 2, Time: 0.003915 s, GFLOPS: 2.078871
+Threads: 1, k: 3, Time: 0.005837 s, GFLOPS: 2.091672
+Threads: 1, k: 6, Time: 0.012308 s, GFLOPS: 1.984024
+Processing ./matrices/af_1_k101.mtx
+Threads: 1, k: 1, Time: 0.011658 s, GFLOPS: 1.548714
+Threads: 1, k: 2, Time: 0.017039 s, GFLOPS: 2.119187
+Threads: 1, k: 3, Time: 0.024720 s, GFLOPS: 2.191042
+Threads: 1, k: 6, Time: 0.051041 s, GFLOPS: 2.122311
+Processing ./matrices/mac_econ_fwd500.mtx
+Threads: 1, k: 1, Time: 0.003504 s, GFLOPS: 0.726796
+Threads: 1, k: 2, Time: 0.004626 s, GFLOPS: 1.100968
+Threads: 1, k: 3, Time: 0.005227 s, GFLOPS: 1.461764
+Threads: 1, k: 6, Time: 0.010727 s, GFLOPS: 1.424517
+Processing ./matrices/FEM_3D_thermal1.mtx
+Threads: 1, k: 1, Time: 0.000418 s, GFLOPS: 2.062773
+Threads: 1, k: 2, Time: 0.000915 s, GFLOPS: 1.883125
+Threads: 1, k: 3, Time: 0.001150 s, GFLOPS: 2.247366
+Threads: 1, k: 6, Time: 0.002428 s, GFLOPS: 2.128552
+Processing ./matrices/mc2depi.mtx
+Threads: 1, k: 1, Time: 0.005887 s, GFLOPS: 0.713542
+Threads: 1, k: 2, Time: 0.006309 s, GFLOPS: 1.331512
+Threads: 1, k: 3, Time: 0.007484 s, GFLOPS: 1.683797
+Threads: 1, k: 6, Time: 0.013070 s, GFLOPS: 1.928286
+Processing ./matrices/ML_Laplace.mtx
+Threads: 1, k: 1, Time: 0.034696 s, GFLOPS: 1.596133
+Threads: 1, k: 2, Time: 0.059882 s, GFLOPS: 1.849625
+Threads: 1, k: 3, Time: 0.088549 s, GFLOPS: 1.876247
+Threads: 1, k: 6, Time: 0.173845 s, GFLOPS: 1.911354
+Processing ./matrices/raefsky2.mtx
+Threads: 1, k: 1, Time: 0.000304 s, GFLOPS: 1.935644
+Threads: 1, k: 2, Time: 0.000593 s, GFLOPS: 1.985233
+Threads: 1, k: 3, Time: 0.000885 s, GFLOPS: 1.994705
+Threads: 1, k: 6, Time: 0.001799 s, GFLOPS: 1.962625
+Processing ./matrices/thermal1.mtx
+Threads: 1, k: 1, Time: 0.000826 s, GFLOPS: 0.795324
+Threads: 1, k: 2, Time: 0.001145 s, GFLOPS: 1.147935
+Threads: 1, k: 3, Time: 0.001467 s, GFLOPS: 1.343421
+Threads: 1, k: 6, Time: 0.002567 s, GFLOPS: 1.535921
+Processing ./matrices/cavity01.mtx
+Threads: 1, k: 1, Time: 0.000011 s, GFLOPS: 1.320793
+Threads: 1, k: 2, Time: 0.000017 s, GFLOPS: 1.754822
+Threads: 1, k: 3, Time: 0.000025 s, GFLOPS: 1.768530
+Threads: 1, k: 6, Time: 0.000047 s, GFLOPS: 1.865248
+Processing ./matrices/olm1000.mtx
+Threads: 1, k: 1, Time: 0.000008 s, GFLOPS: 1.050477
+Threads: 1, k: 2, Time: 0.000009 s, GFLOPS: 1.745151
+Threads: 1, k: 3, Time: 0.000015 s, GFLOPS: 1.577356
+Threads: 1, k: 6, Time: 0.000024 s, GFLOPS: 1.998605
+Processing ./matrices/bcsstk17.mtx
+Threads: 1, k: 1, Time: 0.000234 s, GFLOPS: 1.881885
+Threads: 1, k: 2, Time: 0.000435 s, GFLOPS: 2.020298
+Threads: 1, k: 3, Time: 0.000639 s, GFLOPS: 2.065132
+Threads: 1, k: 6, Time: 0.001305 s, GFLOPS: 2.020801
+Processing ./matrices/rdist2.mtx
+Threads: 1, k: 1, Time: 0.000059 s, GFLOPS: 1.938435
+Threads: 1, k: 2, Time: 0.000107 s, GFLOPS: 2.123160
+Threads: 1, k: 3, Time: 0.000159 s, GFLOPS: 2.146108
+Threads: 1, k: 6, Time: 0.000319 s, GFLOPS: 2.138775
+Processing ./matrices/nlpkkt80.mtx
+Threads: 1, k: 1, Time: 0.024022 s, GFLOPS: 1.239161
+Threads: 1, k: 2, Time: 0.031635 s, GFLOPS: 1.881894
+Threads: 1, k: 3, Time: 0.043176 s, GFLOPS: 2.068298
+Threads: 1, k: 6, Time: 0.087635 s, GFLOPS: 2.038020
+Processing ./matrices/lung2.mtx
+Threads: 1, k: 1, Time: 0.000715 s, GFLOPS: 1.378619
+Threads: 1, k: 2, Time: 0.001148 s, GFLOPS: 1.716942
+Threads: 1, k: 3, Time: 0.001534 s, GFLOPS: 1.926446
+Threads: 1, k: 6, Time: 0.002934 s, GFLOPS: 2.014269
+Processing ./matrices/olafu.mtx
+Threads: 1, k: 1, Time: 0.000531 s, GFLOPS: 1.940650
+Threads: 1, k: 2, Time: 0.001043 s, GFLOPS: 1.977516
+Threads: 1, k: 3, Time: 0.001527 s, GFLOPS: 2.026006
+Threads: 1, k: 6, Time: 0.003125 s, GFLOPS: 1.980273
+Processing ./matrices/mhd4800a.mtx
+Threads: 1, k: 1, Time: 0.000107 s, GFLOPS: 1.908120
+Threads: 1, k: 2, Time: 0.000193 s, GFLOPS: 2.123184
+Threads: 1, k: 3, Time: 0.000290 s, GFLOPS: 2.115695
+Threads: 1, k: 6, Time: 0.000577 s, GFLOPS: 2.125544
+Processing ./matrices/PR02R.mtx
+Threads: 1, k: 1, Time: 0.010283 s, GFLOPS: 1.591985
+Threads: 1, k: 2, Time: 0.017349 s, GFLOPS: 1.887144
+Threads: 1, k: 3, Time: 0.025331 s, GFLOPS: 1.938796
+Threads: 1, k: 6, Time: 0.050225 s, GFLOPS: 1.955633
+Processing ./matrices/webbase-1M.mtx
+Threads: 1, k: 1, Time: 0.013931 s, GFLOPS: 0.445860
+Threads: 1, k: 2, Time: 0.016925 s, GFLOPS: 0.733960
+Threads: 1, k: 3, Time: 0.019309 s, GFLOPS: 0.965025
+Threads: 1, k: 6, Time: 0.032468 s, GFLOPS: 1.147803
+Processing ./matrices/thermal2.mtx
+Threads: 1, k: 1, Time: 0.023108 s, GFLOPS: 0.424466
+Threads: 1, k: 2, Time: 0.028868 s, GFLOPS: 0.679525
+Threads: 1, k: 3, Time: 0.035859 s, GFLOPS: 0.820580
+Threads: 1, k: 6, Time: 0.056232 s, GFLOPS: 1.046562
+Processing ./matrices/west2021.mtx
+Threads: 1, k: 1, Time: 0.000017 s, GFLOPS: 0.848037
+Threads: 1, k: 2, Time: 0.000020 s, GFLOPS: 1.474675
+Threads: 1, k: 3, Time: 0.000028 s, GFLOPS: 1.571710
+Threads: 1, k: 6, Time: 0.000050 s, GFLOPS: 1.756185
+Processing ./matrices/Cube_Coup_dt0.mtx
+Threads: 1, k: 1, Time: 0.080283 s, GFLOPS: 1.611445
+Threads: 1, k: 2, Time: 0.128732 s, GFLOPS: 2.009927
+Threads: 1, k: 3, Time: 0.185602 s, GFLOPS: 2.091105
+Threads: 1, k: 6, Time: 0.376317 s, GFLOPS: 2.062691
+Processing ./matrices/adder_dcop_32.mtx
+Threads: 1, k: 1, Time: 0.000027 s, GFLOPS: 0.821896
+Threads: 1, k: 2, Time: 0.000035 s, GFLOPS: 1.276223
+Threads: 1, k: 3, Time: 0.000047 s, GFLOPS: 1.427130
+Threads: 1, k: 6, Time: 0.000083 s, GFLOPS: 1.618167

@@ -1,0 +1,140 @@
+Processing ./matrices/thermomech_TK.mtx
+k: 1, Time: 0.004287 s, GFLOPS: 0.189810
+k: 2, Time: 0.006753 s, GFLOPS: 0.240994
+k: 3, Time: 0.008684 s, GFLOPS: 0.281109
+k: 6, Time: 0.017829 s, GFLOPS: 0.273840
+Processing ./matrices/af23560.mtx
+k: 1, Time: 0.001974 s, GFLOPS: 0.490634
+k: 2, Time: 0.003834 s, GFLOPS: 0.505223
+k: 3, Time: 0.005718 s, GFLOPS: 0.508139
+k: 6, Time: 0.011581 s, GFLOPS: 0.501776
+Processing ./matrices/cage4.mtx
+k: 1, Time: 0.000004 s, GFLOPS: 0.024500
+k: 2, Time: 0.000003 s, GFLOPS: 0.065333
+k: 3, Time: 0.000004 s, GFLOPS: 0.073500
+k: 6, Time: 0.000004 s, GFLOPS: 0.147000
+Processing ./matrices/dc1.mtx
+k: 1, Time: 0.003927 s, GFLOPS: 0.390321
+k: 2, Time: 0.007435 s, GFLOPS: 0.412318
+k: 3, Time: 0.010865 s, GFLOPS: 0.423228
+k: 6, Time: 0.022277 s, GFLOPS: 0.412836
+Processing ./matrices/mcfe.mtx
+k: 1, Time: 0.000268 s, GFLOPS: 0.181955
+k: 2, Time: 0.000198 s, GFLOPS: 0.492566
+k: 3, Time: 0.000293 s, GFLOPS: 0.499290
+k: 6, Time: 0.000589 s, GFLOPS: 0.496747
+Processing ./matrices/mhda416.mtx
+k: 1, Time: 0.000037 s, GFLOPS: 0.462811
+k: 2, Time: 0.000071 s, GFLOPS: 0.482366
+k: 3, Time: 0.000106 s, GFLOPS: 0.484642
+k: 6, Time: 0.000209 s, GFLOPS: 0.491598
+Processing ./matrices/cant.mtx
+k: 1, Time: 0.008356 s, GFLOPS: 0.487055
+k: 2, Time: 0.016528 s, GFLOPS: 0.492477
+k: 3, Time: 0.024671 s, GFLOPS: 0.494893
+k: 6, Time: 0.049658 s, GFLOPS: 0.491744
+Processing ./matrices/af_1_k101.mtx
+k: 1, Time: 0.037767 s, GFLOPS: 0.478044
+k: 2, Time: 0.072265 s, GFLOPS: 0.499669
+k: 3, Time: 0.109290 s, GFLOPS: 0.495589
+k: 6, Time: 0.218625 s, GFLOPS: 0.495487
+Processing ./matrices/mac_econ_fwd500.mtx
+k: 1, Time: 0.008356 s, GFLOPS: 0.304784
+k: 2, Time: 0.014095 s, GFLOPS: 0.361373
+k: 3, Time: 0.019753 s, GFLOPS: 0.386794
+k: 6, Time: 0.039945 s, GFLOPS: 0.382543
+Processing ./matrices/FEM_3D_thermal1.mtx
+k: 1, Time: 0.001728 s, GFLOPS: 0.498542
+k: 2, Time: 0.003390 s, GFLOPS: 0.508248
+k: 3, Time: 0.005048 s, GFLOPS: 0.511973
+k: 6, Time: 0.010162 s, GFLOPS: 0.508648
+Processing ./matrices/mc2depi.mtx
+k: 1, Time: 0.012124 s, GFLOPS: 0.346457
+k: 2, Time: 0.022386 s, GFLOPS: 0.375275
+k: 3, Time: 0.032744 s, GFLOPS: 0.384845
+k: 6, Time: 0.064175 s, GFLOPS: 0.392718
+Processing ./matrices/ML_Laplace.mtx
+k: 1, Time: 0.107995 s, GFLOPS: 0.512801
+k: 2, Time: 0.214748 s, GFLOPS: 0.515767
+k: 3, Time: 0.321251 s, GFLOPS: 0.517165
+k: 6, Time: 0.644706 s, GFLOPS: 0.515397
+Processing ./matrices/raefsky2.mtx
+k: 1, Time: 0.001123 s, GFLOPS: 0.524089
+k: 2, Time: 0.002235 s, GFLOPS: 0.526668
+k: 3, Time: 0.003351 s, GFLOPS: 0.526904
+k: 6, Time: 0.006743 s, GFLOPS: 0.523700
+Processing ./matrices/thermal1.mtx
+k: 1, Time: 0.002438 s, GFLOPS: 0.269529
+k: 2, Time: 0.004031 s, GFLOPS: 0.326029
+k: 3, Time: 0.005642 s, GFLOPS: 0.349404
+k: 6, Time: 0.010648 s, GFLOPS: 0.370273
+Processing ./matrices/cavity01.mtx
+k: 1, Time: 0.000081 s, GFLOPS: 0.180914
+k: 2, Time: 0.000062 s, GFLOPS: 0.472710
+k: 3, Time: 0.000092 s, GFLOPS: 0.477848
+k: 6, Time: 0.000180 s, GFLOPS: 0.488467
+Processing ./matrices/olm1000.mtx
+k: 1, Time: 0.000022 s, GFLOPS: 0.363273
+k: 2, Time: 0.000041 s, GFLOPS: 0.389854
+k: 3, Time: 0.000060 s, GFLOPS: 0.399600
+k: 6, Time: 0.000118 s, GFLOPS: 0.406373
+Processing ./matrices/bcsstk17.mtx
+k: 1, Time: 0.000941 s, GFLOPS: 0.467188
+k: 2, Time: 0.001810 s, GFLOPS: 0.485772
+k: 3, Time: 0.002677 s, GFLOPS: 0.492668
+k: 6, Time: 0.005369 s, GFLOPS: 0.491291
+Processing ./matrices/rdist2.mtx
+k: 1, Time: 0.000238 s, GFLOPS: 0.478437
+k: 2, Time: 0.000460 s, GFLOPS: 0.495078
+k: 3, Time: 0.000686 s, GFLOPS: 0.497965
+k: 6, Time: 0.001374 s, GFLOPS: 0.497240
+Processing ./matrices/nlpkkt80.mtx
+k: 1, Time: 0.062636 s, GFLOPS: 0.475239
+k: 2, Time: 0.122353 s, GFLOPS: 0.486577
+k: 3, Time: 0.181244 s, GFLOPS: 0.492713
+k: 6, Time: 0.364300 s, GFLOPS: 0.490262
+Processing ./matrices/lung2.mtx
+k: 1, Time: 0.002718 s, GFLOPS: 0.362446
+k: 2, Time: 0.005065 s, GFLOPS: 0.388994
+k: 3, Time: 0.007459 s, GFLOPS: 0.396217
+k: 6, Time: 0.014569 s, GFLOPS: 0.405709
+Processing ./matrices/olafu.mtx
+k: 1, Time: 0.002116 s, GFLOPS: 0.487383
+k: 2, Time: 0.004175 s, GFLOPS: 0.494037
+k: 3, Time: 0.006234 s, GFLOPS: 0.496295
+k: 6, Time: 0.012581 s, GFLOPS: 0.491838
+Processing ./matrices/mhd4800a.mtx
+k: 1, Time: 0.000420 s, GFLOPS: 0.486914
+k: 2, Time: 0.000826 s, GFLOPS: 0.495167
+k: 3, Time: 0.001224 s, GFLOPS: 0.501235
+k: 6, Time: 0.002463 s, GFLOPS: 0.498183
+Processing ./matrices/PR02R.mtx
+k: 1, Time: 0.032880 s, GFLOPS: 0.497879
+k: 2, Time: 0.064855 s, GFLOPS: 0.504827
+k: 3, Time: 0.096954 s, GFLOPS: 0.506537
+k: 6, Time: 0.194574 s, GFLOPS: 0.504803
+Processing ./matrices/webbase-1M.mtx
+k: 1, Time: 0.034019 s, GFLOPS: 0.182577
+k: 2, Time: 0.051164 s, GFLOPS: 0.242791
+k: 3, Time: 0.068826 s, GFLOPS: 0.270729
+k: 6, Time: 0.125204 s, GFLOPS: 0.297646
+Processing ./matrices/thermal2.mtx
+k: 1, Time: 0.057160 s, GFLOPS: 0.171595
+k: 2, Time: 0.086068 s, GFLOPS: 0.227921
+k: 3, Time: 0.110975 s, GFLOPS: 0.265150
+k: 6, Time: 0.203048 s, GFLOPS: 0.289834
+Processing ./matrices/west2021.mtx
+k: 1, Time: 0.000044 s, GFLOPS: 0.334227
+k: 2, Time: 0.000082 s, GFLOPS: 0.358683
+k: 3, Time: 0.000119 s, GFLOPS: 0.370739
+k: 6, Time: 0.000232 s, GFLOPS: 0.380328
+Processing ./matrices/Cube_Coup_dt0.mtx
+k: 1, Time: 0.265367 s, GFLOPS: 0.487517
+k: 2, Time: 0.529474 s, GFLOPS: 0.488677
+k: 3, Time: 0.787691 s, GFLOPS: 0.492722
+k: 6, Time: 1.598059 s, GFLOPS: 0.485730
+Processing ./matrices/adder_dcop_32.mtx
+k: 1, Time: 0.000072 s, GFLOPS: 0.312389
+k: 2, Time: 0.000124 s, GFLOPS: 0.362774
+k: 3, Time: 0.000174 s, GFLOPS: 0.387793
+k: 6, Time: 0.000336 s, GFLOPS: 0.401643
